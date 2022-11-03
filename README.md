@@ -25,3 +25,6 @@ Siga-me nas minhas redes sociais, e fique por dentro de todas as informações:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/eduardobcosta7)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/eduardobcosta7)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://eduardobcosta.medium.com/)
+
+theme: minima
+remote_theme: minima
